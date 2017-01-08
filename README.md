@@ -8,4 +8,4 @@ Solutions to Introduction to Algorithms by Charles E. Leiserson, Clifford Stein,
 
 
 
-[1]: git@github.com:gzc/CLRS.git
+[1]: https://github.com/gzc/CLRS
