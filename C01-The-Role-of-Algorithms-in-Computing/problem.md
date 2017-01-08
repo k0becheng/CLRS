@@ -2,7 +2,7 @@
 > For each function f(n) and time t in the following table, determine the largest size n of a problem that can be solved in time t, assuming that the algorithm to solve the problem takes f(n) microseconds.
 
 ### `Solution`
-Part validated from: [here](https://github.com/gzc/CLRS/blob/master/C01-The-Role-of-Algorithms-in-Computing/problem.md)
+Part validated from: [here](https://github.com/gzc/CLRS/blob/master/C01-The-Role-of-Algorithms-in-Computing/problem.md)  
   | 1 second | 1 miniute | 1 hour | 1 day | 1 month | 1 year | 1 century
 :----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:
 ![](http://latex.codecogs.com/gif.latex?\\lg{n}) | ![](http://latex.codecogs.com/gif.latex?\\2^{10^6}})  | ![](http://latex.codecogs.com/gif.latex?\\2^{6*10^7}}) | ![](http://latex.codecogs.com/gif.latex?\\2^{36*10^8}}) | ![](http://latex.codecogs.com/gif.latex?\\2^{864*10^8}}) | ![](http://latex.codecogs.com/gif.latex?\\2^{25920*10^8}}) | ![](http://latex.codecogs.com/gif.latex?\\2^{315360*10^8}}) | ![](http://latex.codecogs.com/gif.latex?\\2^{31556736*10^8}})
